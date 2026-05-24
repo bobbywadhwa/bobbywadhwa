@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Bobby wadhwa</h1>
-<h3 align="center">A passionate data engineer currently working at WNS.</h3>
+<h3 align="center">A passionate data engineer currently working at MetLife Global Capability Centre, Noida.</h3>
 
-- 🔭 I’m currently working on **XpertSolution**
+- 🔭 I’m currently working as Sr. Data Engineer with Metlife's Subsidiary **Maxis GBN**
 
-- 🌱 I’m currently learning **Java spring framework**
+- 🌱 I’m currently working on tools like **ADF,ADLS gen 2 ,Logic apps, Docker** and python,SQL as programming language.
 
-- 💬 Ask me about **java , aws**
+- 💬 Ask me about **Azure , aws**
 
 - 📫 How to reach me **bobbywadhwa1303@gmail.com**
 
