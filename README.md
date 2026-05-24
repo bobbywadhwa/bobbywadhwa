@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently working on tools like **ADF,ADLS gen 2 ,Logic apps, Docker** and python,SQL as programming language.
 
-- 💬 Ask me about **Azure , aws**
+- 💬 Ask me about **Azure , aws, ETL, Data**
 
 - 📫 How to reach me **bobbywadhwa1303@gmail.com**
 
